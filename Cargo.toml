@@ -3,7 +3,6 @@ name = "kru"
 version = "0.0.1"
 edition = "2021"
 authors = ["Pal Mezei <sirpalee@gmail.com>"]
-license = "MIT"
 license-file = "LICENSE"
 readme = "README.md"
 description = "Scalable game engine"
